@@ -22,11 +22,6 @@ const Detail = () => {
   });
 
   return (
-    // isLoading ? (
-    //   <div>Loading</div>
-    // ) : error ? (
-    //   <div>Error</div>
-    // ) : (
     <div>
       <div className="flex items-center justify-between">
         <Link to={-1} className="btn flex items-center gap-2 py-1 text-md">
