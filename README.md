@@ -27,6 +27,6 @@ This is a simple yet comprehensive recipe app where users can create, view, edit
 - UUID (for unique recipe IDs)
 
 
-# 📸 ScreenShot
+## 📸 ScreenShot
 
 <img src="recipe.gif"/>
